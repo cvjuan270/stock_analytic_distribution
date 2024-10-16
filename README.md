@@ -14,5 +14,6 @@
   # Dependencias
 
   Este módulo depende de dos módulos de la OCA (Odoo Community Association) https://github.com/OCA/account-analytic:
-  _ product_analytic: Proporciona funcionalidades para la gestión analítica a nivel de producto.
-  _ stock_analytic: Ofrece capacidades de análisis para operaciones de inventario.
+
+  - product_analytic: Proporciona funcionalidades para la gestión analítica a nivel de producto.
+  - stock_analytic: Ofrece capacidades de análisis para operaciones de inventario.
